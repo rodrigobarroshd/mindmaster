@@ -1,5 +1,4 @@
 import React from 'react';
-// import './App.css';
 import { GlobalStyles } from './styles/globalstyles'
 import { Header } from './styles/styles'
 import  Button  from './components/Button';
@@ -11,7 +10,8 @@ function App() {
       <GlobalStyles/>
 
       <Header>
-        <h1>Hello World</h1>
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
 
       </Header>
 
